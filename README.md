@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-STAGE-3
+# Project Template 26
